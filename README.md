@@ -1,2 +1,2 @@
 # Credit-Card-Validation-Program
-#### This program uses Random Forest for the Credit card validation purpose to determine whetherfor a person is eligible to avail a credit card given his details.
+#### This program uses Random Forest for the purpose of credit card validation to determine whether a person is eligible to avail a credit card based on their details
